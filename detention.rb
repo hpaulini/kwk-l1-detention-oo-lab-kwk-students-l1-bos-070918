@@ -9,7 +9,7 @@ class Detention
     @students = students
   end
   
-  def detention
+  def add_students
     
   end
   
