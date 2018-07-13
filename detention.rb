@@ -9,4 +9,8 @@ class Detention
     @students = students
   end
   
+  def detention
+    
+  end
+  
 end
