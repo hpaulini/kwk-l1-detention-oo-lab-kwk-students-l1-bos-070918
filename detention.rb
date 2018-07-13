@@ -13,4 +13,8 @@ class Detention
     students.push(name)
   end
   
+  def remove_student (name)
+    
+  end
+  
 end
