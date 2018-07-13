@@ -9,7 +9,7 @@ class Detention
     @students = students
   end
   
-  def add_student (students)
+  def add_student ([]])
     
   end
   
